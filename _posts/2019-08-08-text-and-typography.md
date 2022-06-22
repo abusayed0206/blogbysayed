@@ -1,213 +1,47 @@
 ---
-title: Text and Typography
-author: cotes
-date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+title: Death & Us
+author: Abu Sayed
+date: 2019-06-19 01:21:00 +0800
+categories: [Blog, Daily Life]
+tags: [death,us]
 math: true
 mermaid: true
 image:
-  path: /commons/devices-mockup.png
+  path: /image/death.jpg
   width: 800
   height: 500
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+  alt: Death & Us
 ---
 
-This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
+এখন,আমার **মৃত্যু** হলে যেসব প্রকিয়ায় সকলে ভূলে যাবে।
 
+- আমার মৃত্যুর সংবাদ ছড়িয়ে পরবে আত্বীয়স্বজন এবং পরিচিত মানুষদের মাঝে।খবরটা অবস্যই ২ টা মাধ্যমে ছড়াবে,
 
-## Titles
----
-# H1 - heading
+  *-ফোনের মাধ্যমে*
 
-<h2 data-toc-skip>H2 - heading</h2>
+  *-সামাজিক যোগাযোগ মাধ্যম*
 
-<h3 data-toc-skip>H3 - heading</h3>
+- বাড়িতে আমার লাশ নিয়ে যাওয়া হবে। জানাজার সময় নির্ধারণ করা হবে একটা উপযুক্ত সময়ে।
 
-<h4>H4 - heading</h4>
----
-<br>
+- সকল শুভাকাঙ্ক্ষীরা আসবে আমার লাশ(ডেড বডি) দেখতে।(তখন কেউ আর আমার নাম বলে ডাকবে না,তখন আমি ডিসপোজেবল বস্তু মাত্র,যত তাড়াতাড়ি সম্ভব ডিসপোজ করা যায়)
 
-## Paragraph
+- আর যারা আসতে পারবে না তারা ফোন করে আম্মু/আব্বুকে সান্ত্বনা দিবে হয়ত।এর বেশি কিছু করতে চাইলে ফেসবুকে হয়ত ২/৪ টা পোষ্ট করবে(eg. RIP Sayed/we Don't want to lose you/ভাল থাক ওপাড়ে/দোয়া করি আল্লাহ বেহেস্ত নসিব করুক etc)
 
-I wandered lonely as a cloud
+- আমার জানাজা হয়ে যাবে।তখনও কেউ কেউ মরাকান্না করবে আমার জন্য।কিন্তু একটা মানুষের কান্না সহজে থামবে না।সে হচ্ছে আমার 'আম্মু'।আরেকটা ব্যক্তি সবার আড়ালে চোখ মুছবে,কেউ বুঝতে পারবে না সেই ব্যক্তিটা কত চাপা কষ্ট পাইতাছে।সেইটা হইল আমার 'আব্বু'
 
-That floats on high o'er vales and hills,
+- জানাজা শেষে মাটি দিয়ে দিবে(deadbody disposed)
 
-When all at once I saw a crowd,
+- যত দ্রুত সম্ভব সবাই আমাকে একা ফেলে চলে আসবে।[কুমিল্লার 'টমছমব্রীজ কেন্দ্রীয় কবরস্থান'এর খুব কাছাকাছি থাকার কারণে দেখছি কিভাবে পরিচিতরা মাটি দেয়ার পর কত দ্রুত কবরস্থান ত্যাগ করে।একবার ঘড়ি ধরছিলাম, ২৮+ মিনিট এর মধ্যে সকলেই চলে গেছে,]
 
-A host, of golden daffodils;
+- মৃত্যুর ৫ দিনের দিন সকল আত্বীয়দের দাওয়াত করা হবে।দোয়া করানো হবে।
 
-Beside the lake, beneath the trees,
+- তারপর আবার *৪০* দিনের দিন হয়ত দোয়া করানো হবে।
 
-Fluttering and dancing in the breeze.
+- আস্তে আস্তে সকলে ভূলে যাবে।
 
-## Lists
+কথায় কথায় আমার কথা উঠলে হয়ত বলবে 'সাঈদ খুব ভালো ছিল/(পজিটিভ কিছু মন্তব্য) '।এই ফেসবুক আইডি টাতে 'রিমেম্বারিং' হয়ত আসবে না।কারণ ডেথ সার্টিফিকেট কেউ সাবমিট করবে না হয়ত।কেউ বা মৃত্যুর পরপর খবর পাইয়া এই আইডি ট্যাগ কইরা 'রিপ' পোষ্ট করব।
 
-### Ordered list
+আমি দৃঢ়ভাবে পবিত্র ধর্মগ্রন্থ "আল কুরআন " বিশ্বাস করি।তার একটা ভার্সঃ"প্রত্যেক প্রানিকে তার মৃত্যুর স্বাদ গ্রহন করতে হবে"
+সো,আমি জানি আমার যে কোন সময় মৃত্যু হবে।
 
-1. Firstly
-2. Secondly
-3. Thirdly
-
-### Unordered list
-
-- Chapter
-  - Section
-    - Paragraph
-
-### Task list
-
-- [ ] TODO
-- [x] Completed
-- [ ] Defeat COVID-19
-  - [x] Vaccine production
-  - [ ] Economic recovery
-  - [ ] People smile again
-
-### Description list
-
-Sun
-: the star around which the earth orbits
-
-Moon
-: the natural satellite of the earth, visible by reflected light from the sun
-
-## Block Quote
-
-> This line shows the _block quote_.
-
-## Prompts
-
-> An example showing the `tip` type prompt.
-{: .prompt-tip }
-
-> An example showing the `info` type prompt.
-{: .prompt-info }
-
-> An example showing the `warning` type prompt.
-{: .prompt-warning }
-
-> An example showing the `danger` type prompt.
-{: .prompt-danger }
-
-## Tables
-
-| Company                      | Contact          | Country |
-|:-----------------------------|:-----------------|--------:|
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    | UK      |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
-
-## Links
-
-<http://127.0.0.1:4000>
-
-## Footnote
-
-Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
-
-## Images
-
-- Default (with caption)
-
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" }
-_Full screen width and center alignment_
-
-<br>
-
-- Shadow
-
-![Window shadow](/posts/20190808/window.png){: .shadow width="1548" height="864" style="max-width: 90%" }
-_shadow effect (visible in light mode)_
-
-<br>
-
-- Left aligned
-
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" style="max-width: 70%" .normal}
-
-<br>
-
-- Float to left
-
-  ![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" style="max-width: 200px" .left}
-  "A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space."
-
-<br>
-
-- Float to right
-
-  ![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" style="max-width: 200px" .right}
-  "A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space."
-
-<br>
-
-## Mermaid SVG
-
-```mermaid
- gantt
-  title  Adding GANTT diagram functionality to mermaid
-  apple :a, 2017-07-20, 1w
-  banana :crit, b, 2017-07-23, 1d
-  cherry :active, c, after b a, 1d
-```
-
-## Mathematics
-
-The mathematics powered by [**MathJax**](https://www.mathjax.org/):
-
-$$ \sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6} $$
-
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
-
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-
-## Inline code
-
-This is an example of `Inline Code`.
-
-## Filepath
-
-Here is the `/path/to/the/file.extend`{: .filepath}.
-
-## Code block
-
-### Common
-
-```
-This is a common code snippet, without syntax highlight and line number.
-```
-
-### Specific Languages
-
-#### Console
-
-```console
-$ env |grep SHELL
-SHELL=/usr/local/bin/bash
-PYENV_SHELL=bash
-```
-
-#### Shell
-
-```bash
-if [ $? -ne 0 ]; then
-    echo "The command was not successful.";
-    #do the needful / exit
-fi;
-```
-
-### Specific filename
-
-```sass
-@import
-  "colors/light-typography",
-  "colors/dark-typography"
-```
-{: file='_sass/jekyll-theme-chirpy.scss'}
-
-## Reverse Footnote
-
-[^footnote]: The footnote source
-[^fn-nth-2]: The 2nd footnote source
+"মৃত্য"কে স্মরণ করে উক্ত লিখাটি লিখা😢

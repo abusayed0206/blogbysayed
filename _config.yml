@@ -33,6 +33,8 @@ url: 'https://blog.abusayed.dev'
 
 image: '/images/OG_SAYED.png'
 
+locale: En_US
+
 github:
   username: abusayed0206            # change to your github username
 
