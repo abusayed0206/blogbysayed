@@ -7,7 +7,7 @@ tags: [death,us]
 math: true
 mermaid: true
 image:
-  path: /image/death.jpg
+  path: /images/death.jpg
   width: 800
   height: 500
   alt: Death & Us
