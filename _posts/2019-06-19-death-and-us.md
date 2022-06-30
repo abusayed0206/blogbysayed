@@ -1,11 +1,13 @@
 ---
 title: Death & Us
-author: Abu Sayed
 date: 2019-06-19 01:21:00 +0800
 categories: [Blog, Daily Life]
 tags: [death,us]
-math: true
-mermaid: true
+author: sayed
+math: false
+mermaid: false
+toc: false
+pin: true
 image:
   path: /images/death.webp
   width: 800
